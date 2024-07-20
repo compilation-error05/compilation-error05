@@ -1,5 +1,8 @@
 ![github_pic](https://github.com/user-attachments/assets/17bc8976-ddb4-4acf-8189-7c7093087126)
 
+<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/81398207-339d-4c01-a4af-2f70aa2687b3)
+">
+
 
 <h1 align="center">Hi 👋, I'm Shantanu Mukherjee</h1>
 <h3 align="center">A Passionate Data Science Enthusiast from India</h3>
