@@ -1,6 +1,6 @@
 ![github_pic](https://github.com/user-attachments/assets/17bc8976-ddb4-4acf-8189-7c7093087126)
 
-<img align="right" alt="coding" width="400" src="![rodoshi](https://github.com/user-attachments/assets/e5dfbb50-786e-42f2-aeb8-88066b37c84d)">
+<img align="right" alt="coding" width="400" src="![rodoshi](https://github.com/user-attachments/assets/63792561-bd56-4f09-b67c-c63f4983276b)">
 
 
 <h1 align="center">Hi 👋, I'm Shantanu Mukherjee</h1>
