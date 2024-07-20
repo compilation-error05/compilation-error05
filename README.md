@@ -1,4 +1,4 @@
-![logo](https://github.com/soumyarajbag/soumyarajbag/blob/main/Soumyaraj_Bag_Poster.png)
+
 <h1 align="center">Hi 👋, I'm Shantanu Mukherjee</h1>
 <h3 align="center">A Passionate Data Science Enthusiast from India</h3>
 <h3 align="center">CS Undergrad & A Passionate Data Science Devotee !</h3>
