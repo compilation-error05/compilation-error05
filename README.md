@@ -1,4 +1,4 @@
-![logo](board-with-moving-electrons-data-flow-loop-background-animation-artificial-intelligence-visualization-of-in-machine-learning-computer-technology-science-cyber-and-futuristic-concept-free-video.jpg)
+![github_pic](https://github.com/user-attachments/assets/17bc8976-ddb4-4acf-8189-7c7093087126)
 <p align="left"> <img src="board-with-moving-electrons-data-flow-loop-background-animation-artificial-intelligence-visualization-of-in-machine-learning-computer-technology-science-cyber-and-futuristic-concept-free-video.jpg" alt="shantanu mukherjee" /> </p>
 
 
