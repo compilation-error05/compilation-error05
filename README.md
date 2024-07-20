@@ -32,7 +32,15 @@
 [![My Programming Languages](https://skillicons.dev/icons?i=c,cpp,python,java)](https://skillicons.dev)
 
 ### Development Frameworks and Libraries
-[![Data Science Libraries](https://skillicons.dev/icons?i=python&perline=10&icons=numpy,pandas,matplotlib,tensorflow,sklearn,seaborn,emoji,wordcloud)](https://skillicons.dev)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-014D4E?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C9A85?style=for-the-badge&logoColor=white)](https://seaborn.pydata.org/)
+[![Emoji](https://img.shields.io/badge/Emoji-FFDD67?style=for-the-badge&logo=emoji&logoColor=white)](https://pypi.org/project/emoji/)
+[![WordCloud](https://img.shields.io/badge/WordCloud-4682B4?style=for-the-badge&logoColor=white)](https://github.com/amueller/word_cloud)
 
 ### Databases and Cloud Platforms 🛠 
 [![My Databases and Cloud](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
