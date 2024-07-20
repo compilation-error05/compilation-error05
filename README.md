@@ -1,6 +1,7 @@
-![github_pic](https://github.com/user-attachments/assets/17bc8976-ddb4-4acf-8189-7c7093087126)
+<div style="display: flex; justify-content: center;">
+    <img src="https://github.com/user-attachments/assets/63792561-bd56-4f09-b67c-c63f4983276b" width="600">
+</div>
 
-<img align="right" alt="coding" width="400" src="![rodoshi](https://github.com/user-attachments/assets/63792561-bd56-4f09-b67c-c63f4983276b)">
 
 
 <h1 align="center">Hi 👋, I'm Shantanu Mukherjee</h1>
