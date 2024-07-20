@@ -1,4 +1,4 @@
-![logo](https://github.com/soumyarajbag/soumyarajbag/blob/main/Soumyaraj_Bag_Poster.png)
+![logo](board-with-moving-electrons-data-flow-loop-background-animation-artificial-intelligence-visualization-of-in-machine-learning-computer-technology-science-cyber-and-futuristic-concept-free-video.jpg)
 <p align="left"> <img src="board-with-moving-electrons-data-flow-loop-background-animation-artificial-intelligence-visualization-of-in-machine-learning-computer-technology-science-cyber-and-futuristic-concept-free-video.jpg" alt="shantanu mukherjee" /> </p>
 
 
