@@ -4,7 +4,7 @@
 <h3 align="center">CS Undergrad & A Passionate Data Science Devotee !</h3>
 
 - 📚 I'm a Sophomore CSE Student at **RCC Institute of Information Technology**.
-- 🌱 I’m currently working on various**Machine Learning & Data Analytics** projects.
+- 🌱 I’m currently working on various **Machine Learning & Data Analytics** projects.
 - 💬 Ask me about **Python, Statistics** .
 - 👯 I’m looking for Internships .  
 - 🔭 I’m currently learning everything about **Data Science using Python** 😅
