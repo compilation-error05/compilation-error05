@@ -1,4 +1,8 @@
-![logo](board-with-moving-electrons-data-flow-loop-background-animation-artificial-intelligence-visualization-of-in-machine-learning-computer-technology-science-cyber-and-futuristic-concept-free-video.jpg)
+![logo](https://github.com/soumyarajbag/soumyarajbag/blob/main/Soumyaraj_Bag_Poster.png)
+<p align="left"> <img src="board-with-moving-electrons-data-flow-loop-background-animation-artificial-intelligence-visualization-of-in-machine-learning-computer-technology-science-cyber-and-futuristic-concept-free-video.jpg" alt="shantanu mukherjee" /> </p>
+
+
+<h1 align="center">Hi 👋, I'm Soumyaraj Bag</h1>
 
 <h1 align="center">Hi 👋, I'm Shantanu Mukherjee</h1>
 <h3 align="center">A Passionate Data Science Enthusiast from India</h3>
