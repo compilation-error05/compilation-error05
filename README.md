@@ -22,12 +22,18 @@
 ---
 # <h3 align="left">📧 I am also available here: <h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shantanu-mukherjee-97b5951a7/" target="blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=000000&color=0072b1'/></a>  
-<a href="https://www.facebook.com/shantanu.mukherjee.5095110" target="blank"><img alt='Facebook' src='https://img.shields.io/badge/Facebook-100000?style=for-the-badge&logo=Facebook&logoColor=white&labelColor=black&color=000080'/></a>
-<a href="https://www.instagram.com/confused__capricorn/" target="blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=000000&color=FF009E'/></a>
-<a href="discordapp.com/users/confused__capricorn" target="blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=black&color=6B00B3'/></a>
-
+    <a href="https://www.linkedin.com/in/shantanu-mukherjee-97b5951a7/" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="background-color: white;"/>
+    </a>
+    <a href="https://www.facebook.com/shantanu.mukherjee.5095110" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40" style="background-color: white;"/>
+    </a>
+    <a href="https://www.instagram.com/confused__capricorn/" target="blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40" style="background-color: white;"/>
+    </a>
+ 
 </p>
+
 
 <br>
 
@@ -49,7 +55,6 @@
 <a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="background-color: white;"/>
 </a>
-
 
 ### Development Frameworks and Libraries
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
